@@ -1,0 +1,22 @@
+{
+  "name": "hamzouzou-marketplace",
+  "owner": {
+    "name": "hamzouzou"
+  },
+  "metadata": {
+    "description": "Plugins Claude Code by Oraije",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "superharness",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hamzouzou/superharness.git"
+      },
+      "description": "Orchestration multi-agent : task queue SQLite, workers Haiku, validateurs, dashboard temps reel",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}
