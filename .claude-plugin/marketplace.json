@@ -17,6 +17,16 @@
       "description": "Orchestration multi-agent : task queue SQLite, workers Haiku, validateurs, dashboard temps reel",
       "version": "1.0.0",
       "strict": true
+    },
+    {
+      "name": "blackboard",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hamzouzou/blackboard.git"
+      },
+      "description": "Coordination multi-agent stigmergique via fichiers .md. Resout la perte de contexte sur les longues sessions.",
+      "version": "1.0.0",
+      "strict": true
     }
   ]
 }

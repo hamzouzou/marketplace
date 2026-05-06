@@ -19,3 +19,13 @@ Orchestration multi-agent : task queue SQLite, workers Haiku, validateurs, dashb
 ```
 
 **Repository:** https://github.com/hamzouzou/superharness
+
+### blackboard
+
+Coordination multi-agent stigmergique via fichiers `.md`. Resout la perte de contexte sur les longues sessions.
+
+```bash
+/plugin install blackboard@hamzouzou-marketplace
+```
+
+**Repository:** https://github.com/hamzouzou/blackboard
