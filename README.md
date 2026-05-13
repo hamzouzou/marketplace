@@ -29,3 +29,13 @@ Coordination multi-agent stigmergique via fichiers `.md`. Resout la perte de con
 ```
 
 **Repository:** https://github.com/hamzouzou/blackboard
+
+### autopilot
+
+Agent autonome pour Claude Code : delegation de decisions, execution automatique de taches.
+
+```bash
+/plugin install autopilot@hamzouzou-marketplace
+```
+
+**Repository:** https://github.com/hamzouzou/autopilot
